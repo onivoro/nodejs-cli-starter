@@ -1,6 +1,6 @@
 {
     "name": "@onivoro/nodejs-cli-starter",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Utils for building node command line interfaces",
     "bin": {
         "mycli-do-something": "transpiled/cli/do-something.js"
