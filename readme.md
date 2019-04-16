@@ -12,4 +12,4 @@
 
 1. *command line*: `npm link`
 
-Now you can run your program on the command line.
+1. Run your program on the command line.
